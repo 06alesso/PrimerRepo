@@ -20,3 +20,7 @@ acabar la carrera
  ser exitoso  
 ## Una frase que me define  
 - "*no se*"
+
+## Algo divertido sobre mí
+- [soy muy sociable]
+```
